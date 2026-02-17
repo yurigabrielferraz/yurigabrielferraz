@@ -52,6 +52,3 @@ Infrastructure tooling
 
 Based in Brazil (UTC-3)  
 Open to remote contract opportunities (part-time or project-based).
-
-LinkedIn: https://www.linkedin.com/in/yurigsferraz/
-Email: yurigsferraz@gmail.com
